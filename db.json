@@ -1,0 +1,56 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Pedro Sanchez",
+      "correo": "pedroche@gmail.com",
+      "contraseña": "picapiedra",
+      "ciudad": "Villareal",
+      "zip": 08020
+
+      
+  
+    },
+    {
+       "id": 2,
+     "nombre": "Pablo Iglesias",
+      "correo": "pablomarmol@gmail.com",
+       "contraseña": "bety",
+      "ciudad": "caracas",
+"zip": 08021
+      
+    },
+    {
+       "id": 3,
+      "nombre": "Santiago Abascal",
+      "correo": "lossantos@gmail.com",
+       "contraseña": "españa",
+      "ciudad": "Extremadura",
+"zip": 08022
+    },
+    {
+       "id": 4,
+    "nombre": "Wingarium Lebiosa",
+      "correo": "lebiosa@gmail.com",
+       "contraseña": "lebiosaa",
+      "ciudad": "Hogwarts",
+  "zip": 08023   
+    },
+    {
+       "id": 5,
+      "nombre": "Nadia Alguien",
+      "correo": "nadia@gmail.com",
+       "contraseña": "alguien",
+      "ciudad": "Sevilla",
+ "zip": 08024
+    },
+    {
+       "id": 6,
+      "nombre": "Quici Licuatre",
+      "correo": "crusaito@gmail.com",
+       "contraseña": "elroboco",
+      "ciudad": "Vigo",
+"zip": 08025
+    }
+  ]
+}
